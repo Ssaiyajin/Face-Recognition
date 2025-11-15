@@ -29,3 +29,7 @@ This can lead to build or compatibility issues during installation.
 also added the folder so its easier to add images and recognize
 
 👉 It is **recommended to use Linux (e.g., Ubuntu)** for smoother setup and better compatibility with the required C++ libraries.
+
+### Author ✨
+
+Nihar Sawant – aspiring DevOps & Software Engineer with interest in machine learning, cloud, and automation.
